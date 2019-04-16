@@ -1,0 +1,16 @@
+15
+0 pink 300
+0 blue 250
+0 red 100
+1 blue
+0 black 380
+0 yellow 400
+0 green 80
+1 green
+1 red
+1 blue
+1 pink
+0 pink 1000
+0 black 1000
+1 pink
+1 black
